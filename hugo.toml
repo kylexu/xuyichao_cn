@@ -1,4 +1,4 @@
-baseURL = 'https://github.io/'
+baseURL = 'https://xuyichao.cn/'
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
 languageCode = 'en-us'
