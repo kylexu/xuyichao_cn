@@ -1,0 +1,8 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - Tag - Xu Yichao Personal Site</title>
+        <link>http://localhost:1313/tags/</link>
+        <description>Tags - Tag - Xu Yichao Personal Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>master[at]xuyichao.cn (Dr X)</managingEditor>
+            <webMaster>master[at]xuyichao.cn (Dr X)</webMaster><atom:link href="http://localhost:1313/tags/" rel="self" type="application/rss+xml" /></channel>
+</rss>
